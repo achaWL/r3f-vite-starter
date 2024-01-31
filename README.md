@@ -1,10 +1,8 @@
-# r3f-vite-starter
-A boilerplate to build R3F projects
+## playRoom
+yarn config set strict-ssl false   
 
-```
-yarn
-yarn dev
-```
+```yarn add three-stdlib``` 
+#### 多个同种网格可能只显示最后一个，所以需要些工具去解决
 
 
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
+```yarn add playroomkit```
